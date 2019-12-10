@@ -3,7 +3,6 @@
 // imports
 const request = require('request-promise-native');
 const fs = require('fs');
-const html_parser = require('node-html-parser');
 const cheerio = require('cheerio');
 
 const HOTC = 'https://heartofthecards.com/code/cardlist.html?card=WS_';
